@@ -18,3 +18,5 @@ venv/
 
 # Project specific
 EMAIL-MAIN/
+
+sorted_emails/
