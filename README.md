@@ -7,8 +7,8 @@ By default, the script scans the EMAIL-MAIN folder for email files to process an
 ## Setup
 1. Create a Python virtual environment:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Linux/Mac
+python -m venv .venv
+source .venv/bin/activate  # On Linux/Mac
 # or
 .\venv\Scripts\activate  # On Windows
 ```
